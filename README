@@ -1,0 +1,8 @@
+ABOUT FILES
+
+    all.macro       - foldit recipes
+    _load           - bash script to mount foldit folder into RAM
+    options.txt     - foldit startup config (readonly)
+    _partial-unload - copy (UPDATED) contents of RAM to foldit
+    README          - this
+    _unload         - copy (ALL) contents of RAM to foldit

@@ -1,0 +1,5 @@
+#!/bin/sh
+echo now updating files..
+cp -uvR ../../../tmp/Foldit ~/Downloads
+echo
+echo ..update complete.

@@ -1,0 +1,5 @@
+#!/bin/sh
+echo uploading files..
+cp -uR ~/Downloads/Foldit ../../../tmp
+echo
+echo ..upload complete.
