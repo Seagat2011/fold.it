@@ -2,3 +2,5 @@
 echo downloading files..
 rm -r ~/Downloads/Foldit
 cp -uR ../../../tmp/Foldit ~/Downloads
+echo
+echo ..download complete
